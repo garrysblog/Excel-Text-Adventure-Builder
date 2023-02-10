@@ -1,4 +1,4 @@
 # Excel-Text-Adventure-Builder
 A spreadsheet with built-in VBA code for building and running interactive fiction games
 
-![The game screen](images/GameScreen1.jpg)
+![The game screen](images/GameSreen1.jpg)
